@@ -1,0 +1,8 @@
+C:\ComputerScience\OOP Asessment 1\CMP1903M A01 2223\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.exe.config
+C:\ComputerScience\OOP Asessment 1\CMP1903M A01 2223\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.exe
+C:\ComputerScience\OOP Asessment 1\CMP1903M A01 2223\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.pdb
+C:\ComputerScience\OOP Asessment 1\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.AssemblyReference.cache
+C:\ComputerScience\OOP Asessment 1\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.SuggestedBindingRedirects.cache
+C:\ComputerScience\OOP Asessment 1\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.CoreCompileInputs.cache
+C:\ComputerScience\OOP Asessment 1\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.exe
+C:\ComputerScience\OOP Asessment 1\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.pdb
