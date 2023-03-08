@@ -15,6 +15,7 @@ namespace CMP1903M_A01_2223
         //unshuffled deck 
         protected Card[] _deck = new Card[52];
 
+        //sets the value of public deck property to the unshuffled deck array 
         public Card[] deck
         {
             get
@@ -27,6 +28,7 @@ namespace CMP1903M_A01_2223
             }
         }
 
+        //creates the pack itself
         public Pack()
         {
 
@@ -108,12 +110,17 @@ namespace CMP1903M_A01_2223
 
         public void dealCard(int amount)
         {
-        //Deals the number of cards specified by 'amount'
-            for (int n = 0; n < amount; n++)
+
+            if (amount < deck.Length)
             {
-                Console.WriteLine("suit is " + deck[n].Suit);
-                Console.WriteLine("value is " + deck[n].Value);
+                //Deals the number of cards specified by 'amount'
+                for (int n = 0; n < amount; n++)
+                {
+                    Console.WriteLine("suit is " + deck[n].Suit);
+                    Console.WriteLine("value is " + deck[n].Value);
+                }
             }
+    
         }
     }
 }
